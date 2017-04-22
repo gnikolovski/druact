@@ -1,0 +1,21 @@
+$margin: 20px;
+
+.top-buffer {
+  margin-top: $margin;
+}
+
+.bottom-buffer {
+  margin-bottom: $margin;
+}
+
+.messages {
+  margin-top: $margin;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}

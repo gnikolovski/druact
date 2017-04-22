@@ -1,0 +1,14 @@
+.top-buffer {
+  margin-top: 20px; }
+
+.bottom-buffer {
+  margin-bottom: 20px; }
+
+.messages {
+  margin-top: 20px; }
+
+.success {
+  color: green; }
+
+.error {
+  color: red; }
